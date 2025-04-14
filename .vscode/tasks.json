@@ -28,3 +28,4 @@
     }
   ]
 }
+// ${cwd}: the current working directory of the spawned process
